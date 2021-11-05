@@ -9,10 +9,11 @@ img {
 
 h1 {
   font-family: sans-serif;
+  font-size: 50px;
 }
 
 h3 {
   background-color: red;
-  font-size: 60px;
+  font-size: 25%;
   font-family: sans-serif;
 }
