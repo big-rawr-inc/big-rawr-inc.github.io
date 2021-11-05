@@ -3,12 +3,16 @@ body {
   text-align: center;
 }
 
+img {
+  text-align: center;
+}
+
 h1 {
   font-family: sans-serif;
 }
 
 h3 {
-  background-color: white;
-  text-size: 60 px;
+  background-color: red;
+  font-size: 60px;
   font-family: sans-serif;
 }
