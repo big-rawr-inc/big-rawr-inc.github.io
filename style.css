@@ -2,3 +2,8 @@ body {
   background-color: lightPink;
   text-align: center;
 }
+
+h1 {
+  text-size: 120px;
+  font-family: sans-serif;
+}
