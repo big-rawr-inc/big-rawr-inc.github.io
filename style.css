@@ -4,6 +4,10 @@ body {
 }
 
 h1 {
-  text-size: 120px;
+  font-family: sans-serif;
+}
+
+h3 {
+  text-size: 60px;
   font-family: sans-serif;
 }
