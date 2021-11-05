@@ -13,7 +13,8 @@ h1 {
 }
 
 h3 {
-  background-color: red;
+  background-color: darkRed;
+  color: pink; 
   font-size: 125%;
   font-family: sans-serif;
 }
