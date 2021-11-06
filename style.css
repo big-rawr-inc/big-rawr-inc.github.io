@@ -3,6 +3,14 @@ body {
   text-align: center;
 }
 
+.content {
+  background-color: darkRed;
+  text-align: left;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
 img {
   text-align: center;
 }
