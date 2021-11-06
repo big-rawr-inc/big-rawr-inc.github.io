@@ -12,6 +12,10 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-family: sans-serif;
+}
+
 h3 {
   background-color: white;
   font-size: 125%;
