@@ -1,6 +1,7 @@
 body {
   background-color: lightPink;
   text-align: center;
+  font-family: sans-serif;
 }
 
 .content {
@@ -28,4 +29,8 @@ h3 {
   background-color: white;
   font-size: 125%;
   font-family: sans-serif;
+}
+
+p {
+  font-size: 150%;
 }
