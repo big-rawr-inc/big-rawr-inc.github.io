@@ -7,8 +7,9 @@ body {
 .top {
   background-image: url('retarded-smiley-youre-fat.jfif');
   background-repeat: no-repeat;
-  background-size: 80% 50%;
+  background-size: 100% 50%;
   background-attachment: fixed;
+  background-position: center;
 }
 
 .content {
