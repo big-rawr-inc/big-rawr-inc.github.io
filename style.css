@@ -1,19 +1,32 @@
 body {
-  background-color: lightPink;
+  background-color: purple;
   text-align: center;
   font-family: sans-serif;
 }
 
 .top {
-  background-image: url('red-sparkles.jpg');
+  background-image: url('/website/purple-sparkles.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
 }
 
-.content {
-  background-color: darkRed;
-  color: lightPink;
+.period-content {
+  background-image: url('/website/red-sparkles.jpg');
+  background-attachment: fixed;
+  text-align: left;
+  border: 2px solid white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.somali-content {
+  font-size: 300%;
+  text-shadow: -1px -1px 0 yellow, 1px -1px 0 yellow, -1px 1px 0 yellow, 1px 1px 0 yellow;
+  background-image: url('/website/rainbow-sparkle-from-center.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: left;
   border: 2px solid white;
   margin: 20px;
@@ -26,10 +39,6 @@ img {
 
 h1 {
   font-size: 50px;
-}
-
-h2 {
-  font-family: sans-serif;
 }
 
 h3 {
