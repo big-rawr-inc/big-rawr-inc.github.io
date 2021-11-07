@@ -5,14 +5,14 @@ body {
 }
 
 .top {
-  background-image: url('/website/purple-sparkles.jpg');
+  background-image: url('/purple-sparkles.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   /* background-attachment: fixed; */
 }
 
 .period-content {
-  background-image: url('/website/red-sparkles.jpg');
+  background-image: url('/red-sparkles.jpg');
   background-attachment: fixed;
   text-align: left;
   border: 2px solid white;
@@ -23,7 +23,7 @@ body {
 .somali-content {
   font-size: 300%;
   text-shadow: -1px -1px 0 yellow, 1px -1px 0 yellow, -1px 1px 0 yellow, 1px 1px 0 yellow;
-  background-image: url('/website/rainbow-sparkle-from-center.jpg');
+  background-image: url('/rainbow-sparkle-from-center.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
