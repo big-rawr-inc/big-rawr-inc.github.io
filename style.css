@@ -6,6 +6,7 @@ body {
 
 .content {
   background-color: darkRed;
+  color: lightPink;
   text-align: left;
   border: 2px solid black;
   margin: 20px;
