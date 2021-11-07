@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
+.top {
+  background-image: url('retarded-smiley-youre-fat.jfif');
+}
+
 .content {
   background-color: darkRed;
   color: lightPink;
